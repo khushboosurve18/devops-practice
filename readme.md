@@ -1,2 +1,1 @@
-#Devops practice project edited on main branch
-
+#Devops practice project - combined file version
